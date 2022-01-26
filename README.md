@@ -2,6 +2,6 @@
 
 2 contracts
 
-template for ERC20 token
+ERC20 contract
 
 TokenSwap contract
